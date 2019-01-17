@@ -1,0 +1,32 @@
+{
+  "name": "mws-restaurant-stage-1",
+  "version": "1.0.0",
+  "description": "restaurant review app",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungpilyu/mws-restaurant-stage-1.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Jungpil YU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungpilyu/mws-restaurant-stage-1/issues"
+  },
+  "homepage": "https://github.com/jungpilyu/mws-restaurant-stage-1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp-sass": "^4.0.2"
+  }
+}
