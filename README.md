@@ -6,7 +6,7 @@
 
 ## Overview
 
-This work was done as a partial fulfillment of the requirements for "Front-End Web Developer Nanodegree" of the Udacity. The project implements a front-end of restaurant-review site which respects the following rules:
+This work was done as a partial fulfillment of the requirements for "Front-End Web Developer Nanodegree" of the Udacity. The project implements a front-end of restaurant-review site which supports the following features:
 
 * A fully responsive layout
 * Responsive images in 5 levels
@@ -17,6 +17,7 @@ This work was done as a partial fulfillment of the requirements for "Front-End W
 
 ## External Library Dependency
 - [leaflet library](https://www.mapbox.com/) for MapBox API call to draw a map
+- some [gulp](https://gulpjs.com/) building-related libraries (autoprefixer, sass, browser-sync) during the development
 
 ## Installation
 
